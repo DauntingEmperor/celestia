@@ -5,25 +5,25 @@
             "developer": "Epic Games",
             "version": "v31.00.1",
             "requiresentitlements": "yes",
-            "downloadLink": "illaddlater",
-            "iconLink": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
-            "description": "Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in six distinct game mode versions.",
+            "downloadLink": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fortnite_31.00.1_QoL.ipa",
+            "iconLink": "https://s3cdn.dbservices.to/icons/9364e98f7468490a45447ad780ec2c355495efc5.png",
+            "description": "The future of Fortnite is here. Be the last player standing in Battle Royale and Zero Build, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools. Each Fortnite island has an individual age rating so you can find the one that’s right for you and your friends. Find it all in Fortnite! Fortnite requires an internet connection and supports iPhone 11 or later with at least 4GB of RAM.",
             "screenshotLinks": [
-                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
-                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715"
+                "https://i.ytimg.com/vi/udsNxP4sGBI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBx5tdElEs25A5E6e_hh2JrB5mrcA",
+                "https://admin.esports.gg/wp-content/uploads/2024/08/Castle-Doom-Fortnite-Chapter-5-Season-4-1568x882.jpg"
             ]
         },
         {
             "appName": "Fall Guys",
-            "developer": "Epic Games",
-            "version": "2.0",
+            "developer": "Epic Games, Mediatonic, Ltd.",
+            "version": "v11.1.4",
             "requiresentitlements": "no",
-            "downloadLink": "idk",
-            "iconLink": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
-            "description": "DontFallIG.",
+            "downloadLink": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/meow/Fall+Guys_FixedQoL_11.1.4_decrypted.ipa",
+            "iconLink": "https://s3cdn.dbservices.to/icons/8418e53bd001c1e6ff58b85182ea68698bcabeab.png",
+            "description": "Jump into a massive-multiplayer party royale with Fall Guys and be the last Bean standing that takes the Crown. Enter the Blunderdome for a free for all platformer game that invites chaos and high-concentrated fun. Competitive & Cooperative: Tumble between competitive free-for-alls and cooperative challengesâ€”or take on the Blunderdome with up to 3 friends! Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account. Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play. Gloriously Customizable: Choose from a multitude of Colors, Patterns, Costumes and Nameplates. Relish wins with extravagant Celebrations and share your flair with Emotes!".",
             "screenshotLinks": [
-                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
-                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715"
+                "https://cdn2.unrealengine.com/cmp-winterevent-2023-social-1920x1080-1920x1080-29ca88532578.jpeg",
+                "https://gmedia.playstation.com/is/image/SIEPDC/fall-guys-ultimate-knockout-s4-keyart-01-en-17apr23?$native$"
             ]
         }
     ]
