@@ -1,0 +1,30 @@
+{
+    "apps": [
+        {
+            "appName": "Fortnite",
+            "developer": "Epic Games",
+            "version": "v31.00.1",
+            "requiresentitlements": "yes",
+            "downloadLink": "illaddlater",
+            "iconLink": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
+            "description": "Fortnite is an online video game and game platform developed by Epic Games and released in 2017. It is available in six distinct game mode versions.",
+            "screenshotLinks": [
+                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
+                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715"
+            ]
+        },
+        {
+            "appName": "Fall Guys",
+            "developer": "Epic Games",
+            "version": "2.0",
+            "requiresentitlements": "no",
+            "downloadLink": "idk",
+            "iconLink": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
+            "description": "DontFallIG.",
+            "screenshotLinks": [
+                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715",
+                "https://static.wikia.nocookie.net/logopedia/images/2/2a/Fortnite_Ecosystem_Icon.jpg/revision/latest/scale-to-width-down/250?cb=20231204192715"
+            ]
+        }
+    ]
+}
